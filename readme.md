@@ -1,0 +1,4 @@
+Ce tutoriel présente une utilisation basique de R sur le jeu de données FormationR.csv.
+D'abord, on prépare les données avec le fichier preparation_donnees.R. On prend en compte les valeurs manquantes et les variables qualitatives ordonnées.
+Ensutie, on réalise des analyses univariées (analyse_univariee.R). On étudie l'effectif, la centralité, la dispersion et le graphique de certaines variables.
+Enfin, on réalise des analyses bivariée (analyse_bivariee.R). on réalise les tests suivants selon la nature des variables : khi2, Test exact de Fisher, T de Student, Test des rangs de Wilcoxon, F de Fisher(ANOVA), Test de KruskalWallis, R de Pearson, R de Spearman.
